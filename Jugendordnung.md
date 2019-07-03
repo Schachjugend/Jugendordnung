@@ -165,7 +165,7 @@ bis zur nächsten Jugendversammlung das Amt anderweitig zu besetzen.
 1. Der 1. Vorsitzende und die zwei stellvertretenden Vorsitzenden vertreten, jeder für sich allein, die DSJ nach außen. Sie haben die Stellung eines gesetzlichen Vertreters im Sinne von § 26 Abs. 2 BGB. Im Innenverhältnis werden die zwei stellvertretenden Vorsitzenden nur bei Verhinderung des 1. Vorsitzenden tätig.
 
 1. Zwischen den Jugendversammlungen ist der Vorstand für alle Angelegenheiten der DSJ zuständig. Er erfüllt seine Aufgaben im Rahmen dieser Jugendordnung,
-der Beschlüsse der Jugendversammlung sowie der Satzung des DSB. Er beruft dazu die Arbeitskreise Mädchenschach, Allgemeine Jugendarbeit, Öffentlichkeitsarbeit, Schulschach und Spielbetrieb, die von den jeweils zuständigen Vorstandsmitgliedern ge- leitet werden.
+der Beschlüsse der Jugendversammlung sowie der Satzung des DSB. Er beruft dazu die Arbeitskreise Mädchenschach, Allgemeine Jugendarbeit, Öffentlichkeitsarbeit, Schulschach und Spielbetrieb, die von den jeweils zuständigen Vorstandsmitgliedern geleitet werden.
 Die Koordination und die Entscheidung über grundsätzliche
 Fragen obliegt dem Vorstand nach Maßgabe der dazu ergangenen Beschlüsse der Jugendversammlung. Das Weitere regelt die Geschäftsordnung.
 
