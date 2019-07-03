@@ -1,5 +1,5 @@
 # Jugendordnung der Deutschen Schachjugend
-**Stand 2014**
+**Stand 2019**
 
 ## 1. Name und Wesen
 
@@ -93,7 +93,7 @@ beträgt, haben für je angefangene weitere 500 gemeldete jugendliche Mitglieder
 vier weitere Stimmen.
 
 	Jeder Landesverband entsendet mindestens zwei Delegierte und höchstens soviele Delegierte, wie er Stimmen hat. Die Stimmen werden auf die anwesenden
-	Delegierten eines Landesverbandes möglichst gleichmäßig verteilt. Einer der Delegierten eines Landesverbandes muss Jugendlicher unter 23 Jahren sein. Wird
+	Delegierten eines Landesverbandes möglichst gleichmäßig verteilt. Einer der Delegierten eines Landesverbandes muss Jugendlicher unter 23 Jahren sein; §3.2 gilt entsprechend. Wird
 	ein Landesverband nur von einem Delegierten vertreten, oder hat unter seinen
 	Delegierten keinen Jugendlichen unter 23 Jahren, so kann dieser nur die Hälfte
 	der dem betreffenden Landesverband zustehenden Stimmen abgeben. Stimmenübertragung ist nur innerhalb eines Landesverbandes zulässig.
@@ -252,6 +252,6 @@ Gerichtsstand und Sitz der DSJ entsprechen denen des DSB und sind in dessen Satz
 In allen Angelegenheiten, die in dieser Jugendordnung oder einer daraus abgeleiteten Ordnung der DSJ nicht abschließend geregelt sind, ist nach der Satzung und den Regelungen des DSB zu verfahren. § 8 Abs. 8 und § 63 der DSB-Satzung in der Fassung vom 01. Juni 2004 gelten zugleich als Bestandteil dieser
 Jugendordnung.
 
-*Zuletzt geändert durch die Jugendversammlung 2014 in Lübeck.*
+*Zuletzt geändert durch die Jugendversammlung 2019 in Potsdam.*
 
 
