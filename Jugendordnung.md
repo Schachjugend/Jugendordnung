@@ -123,9 +123,9 @@ Der Antrag wird in der vorliegenden Form einstimmig genehmigt.
 	- Finanzreferenten,
 	- Mädchenreferenten,
 	- Referenten für allgemeine Jugendarbeit,
-	- Referenten für Öffentlichkeitsarbeit
-	- Referenten für Schulschach
-	- Nationalen Spielleiter
+	- Referenten für Öffentlichkeitsarbeit,
+	- Referenten für Schulschach,
+	- die zwei Nationalen Spielleiter
 	- und die zwei Bundesjugendsprecher.
 
 
@@ -140,7 +140,7 @@ von jeweils zwei Jahren, und zwar in den Jahren mit ungerader Endziffer den
 	- ersten Vorsitzenden,
 	- Finanzreferenten,
 	- Mädchenreferenten,
-	- Nationalen Spielleiter
+	- einen der zwei Nationalen Spielleiter
 	- und einen der zwei Bundesjugendsprecher
 
 
@@ -149,7 +149,8 @@ von jeweils zwei Jahren, und zwar in den Jahren mit ungerader Endziffer den
 	- zwei stellvertretende Vorsitzende,
 	- Referenten für allgemeine Jugendarbeit,
 	- Referenten für Öffentlichkeitsarbeit,
-	- Referenten für Schulschach
+	- Referenten für Schulschach,
+	- einen der zwei Nationalen Spielleiter
 	- und einen der zwei Bundesjugendsprecher
 
 	Die Bundesjugendsprecher müssen bei ihrer Erstwahl Jugendliche sein. Wiederwahl ist zulässig, nach Überschreiten der Altersgrenze jedoch nur noch ein Mal.
