@@ -217,8 +217,8 @@ Bereitwilligkeit, das Amt anzunehmen, erklärt haben.
 
 ## 10. Protokoll
 
-Über jede Sitzung des Vorstandes, des Geschäftsführenden Vorstandes, der Arbeitskreise, der Ausschüsse und über die Jugendversammlung ist Protokoll zu führen. Das Protokoll muss enthalten: Eine Liste sämtlicher Anwesender, die eingereichten Anträge und die Beschlüsse mit dem Abstimmungsergebnis. Das Protokoll ist vom Protokollführer und dem Versammlungsleiter zu unterzeichnen und
-muss von der nächsten Versammlung genehmigt werden.
+Über jede Sitzung des Vorstandes, des Geschäftsführenden Vorstandes, der Arbeitskreise, der Ausschüsse und über die Jugendversammlung ist Protokoll zu führen. Das Protokoll muss enthalten: Eine Liste sämtlicher Anwesender, die eingereichten Anträge und die Beschlüsse mit dem Abstimmungsergebnis. Das Protokoll ist vom Protokollführer und dem Versammlungsleiter zu unterzeichnen und muss von der nächsten Versammlung genehmigt werden.
+Das Protokoll der Jugendversammlung muss den Landesverbänden innerhalb von sechs Wochen, gerechnet vom Tag der Jugendversammlung an, zugesendet werden.
 
 ## 11. Fachausschüsse und Beauftragte
 
