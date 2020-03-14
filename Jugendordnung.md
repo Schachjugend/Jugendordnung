@@ -1,5 +1,5 @@
 # Jugendordnung der Deutschen Schachjugend
-**Stand 2019**
+**Stand 2020**
 
 ## 1. Name und Wesen
 
@@ -203,7 +203,7 @@ dieser Jugendordnung, der Beschlüsse der Jugendversammlung sowie der Satzung de
 
 1. Sitzungen sind einzuberufen, wenn dies zwei Mitglieder des Geschäftsführenden Vorstandes verlangen. Im Übrigen gilt §7 Abs. 7-9 entsprechend.
 
-##9. Wahlen
+## 9. Wahlen
 
 1. Wahlen erfolgen grundsätzlich geheim.
 
@@ -236,23 +236,23 @@ sind verpflichtet, rechtzeitig vor der Jugendversammlung die Kasse und Buchführ
 Jahre gewählt. Des Weiteren wird durch die Jugendversammlung der DSJ in den Jahren mit ungerader Jahreszahl ein Ersatzkassenprüfer ebenfalls für die Dauer von zwei Jahren gewählt. Die beiden Kassenprüfer sowie der Ersatzkassenprüfer dürfen nur einmal in Folge wiedergewählt werden und müssen vor einer erneuten Wahl mindestens zwei Jahre pausieren.
 
 
-##13. Geschäftsführung
+## 13. Geschäftsführung
 
 Zur Regelung ihrer Arbeit gibt sich die DSJ eine Geschäftsordnung, eine Finanzordnung, eine Spielordnung und eine Rechts- und Verfahrensordnung.
 
-##14. Geschäftsjahr
+## 14. Geschäftsjahr
 
 Das Geschäftsjahr ist das Kalenderjahr.
 
-##15. Gerichtsstand und Sitz
+## 15. Gerichtsstand und Sitz
 
 Gerichtsstand und Sitz der DSJ entsprechen denen des DSB und sind in dessen Satzung verankert.
 
-##16. Schlussbestimmung
+## 16. Schlussbestimmung
 
 In allen Angelegenheiten, die in dieser Jugendordnung oder einer daraus abgeleiteten Ordnung der DSJ nicht abschließend geregelt sind, ist nach der Satzung und den Regelungen des DSB zu verfahren. § 8 Abs. 8 und § 63 der DSB-Satzung in der Fassung vom 01. Juni 2004 gelten zugleich als Bestandteil dieser
 Jugendordnung.
 
-*Zuletzt geändert durch die Jugendversammlung 2019 in Potsdam.*
+*Zuletzt geändert durch die Jugendversammlung 2020 in Freiburg.*
 
 
